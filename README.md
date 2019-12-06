@@ -1,4 +1,4 @@
-# Simple-Pig-Latin-Kata-Ruby
+# Kata-Ruby-Simple-Pig-Latin
 My solution for the kata "Simple Pig Latin" in Ruby.
 
 # Kata URL:
